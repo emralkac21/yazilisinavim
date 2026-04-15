@@ -19,7 +19,12 @@ Eğitimciler ve okul yönetimleri için tasarlanmış, sınav süreçlerini diji
 - **Veritabanı:** SQLite3 (`sinav_sistemi.db` olarak lokal çalışır)
 - **Veri Analizi ve İçe Aktarım:** Pandas, OpenPyXL
 - **PDF Üretimi:** ReportLab
-
+<img width="1920" height="1080" alt="Screenshot_3" src="https://github.com/user-attachments/assets/a06a80d5-eff3-4664-8a21-53f4587911eb" />
+<img width="1920" height="1080" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ee4884a1-84fd-4a5e-9a3d-02811c4e60bc" />
+<img width="1920" height="1080" alt="Screenshot_1" src="https://github.com/user-attachments/assets/bdb90d76-15f8-4178-ba20-5817f52a31ca" />
+<img width="1920" height="1080" alt="Screenshot_5" src="https://github.com/user-attachments/assets/910fff96-1bb4-449c-b957-5c642cb5563d" />
+<img width="1920" height="1080" alt="Screenshot_6" src="https://github.com/user-attachments/assets/45733bf4-515a-44a4-8a11-f4da9fb7028a" />
+<img width="1920" height="1080" alt="Screenshot_4" src="https://github.com/user-attachments/assets/bf9ee246-3b10-45c9-a320-32f8f24a1c11" />
 ## ⚙️ Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için sisteminizde [Python 3.8+](https://www.python.org/) kurulu olmalıdır.
@@ -28,9 +33,5 @@ Projeyi yerel makinenizde çalıştırmak için sisteminizde [Python 3.8+](https
 ```bash
 git clone [https://github.com/kullanici-adiniz/sinav-sistemi.git](https://github.com/kullanici-adiniz/yazilisinavi.git)
 cd yazilisinavi
-<img width="1920" height="1080" alt="Screenshot_3" src="https://github.com/user-attachments/assets/a06a80d5-eff3-4664-8a21-53f4587911eb" />
-<img width="1920" height="1080" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ee4884a1-84fd-4a5e-9a3d-02811c4e60bc" />
-<img width="1920" height="1080" alt="Screenshot_1" src="https://github.com/user-attachments/assets/bdb90d76-15f8-4178-ba20-5817f52a31ca" />
-<img width="1920" height="1080" alt="Screenshot_5" src="https://github.com/user-attachments/assets/910fff96-1bb4-449c-b957-5c642cb5563d" />
-<img width="1920" height="1080" alt="Screenshot_6" src="https://github.com/user-attachments/assets/45733bf4-515a-44a4-8a11-f4da9fb7028a" />
-<img width="1920" height="1080" alt="Screenshot_4" src="https://github.com/user-attachments/assets/bf9ee246-3b10-45c9-a320-32f8f24a1c11" />
+
+
