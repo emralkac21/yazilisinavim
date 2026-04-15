@@ -32,6 +32,6 @@ Projeyi yerel makinenizde çalıştırmak için sisteminizde [Python 3.8+](https
 **1. Depoyu klonlayın:**
 ```bash
 git clone [https://github.com/emralkac21/yazilisinavim.git]
-cd yazilisinavi
+cd yazilisinavim
 
 
